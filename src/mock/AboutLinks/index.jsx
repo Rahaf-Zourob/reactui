@@ -9,6 +9,6 @@ export const AboutLinks=[
     },
     {
         id:3,
-        src:"/assets/Youtube.png"
+        src:"/assets/youtube.png"
     }
 ]
