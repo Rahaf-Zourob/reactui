@@ -1,0 +1,20 @@
+.specail__card__container{
+    display: flex;
+    justify-content: space-around;
+}
+.specail__card{
+    margin: 10.8rem 0 6rem;
+    padding: auto;
+    width: 24rem;
+    height: 28.4rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background: #a080404d;
+    border: 1px dashed #ffce6d;
+    text-align: center;
+}
+.speical__header{
+    padding-top: 1.6rem;
+}

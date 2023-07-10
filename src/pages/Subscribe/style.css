@@ -1,0 +1,18 @@
+.subscribe__sec{
+    display: flex;
+    align-items: center;
+    gap: 5.5rem;
+    padding: 2rem 0 2.2rem;
+}
+.news__letter{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap:1.2rem;
+}
+.email__subscribe{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap:1.75rem
+}

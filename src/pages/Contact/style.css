@@ -1,0 +1,6 @@
+.contact__container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 5.75rem 0 4.625rem;
+}

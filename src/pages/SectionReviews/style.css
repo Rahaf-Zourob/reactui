@@ -1,0 +1,10 @@
+.head__review{
+    padding-top: 6.25rem;
+}
+.review__card{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+    gap: 5rem;
+}

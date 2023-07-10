@@ -1,0 +1,20 @@
+.contect__social{
+    width: 17.56rem;
+}
+.social__head{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 1.3rem;
+}
+.social__head h2{
+    color: #FFFCCC;
+}
+.contect__social p,.link__social{
+    padding-left: 2rem;
+}
+.link__social{
+    display: flex;
+    align-items: center;
+    gap:0.8rem;
+    padding-top: 1.2rem;
+}

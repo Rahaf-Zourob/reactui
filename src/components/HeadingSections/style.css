@@ -1,0 +1,23 @@
+.heading{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: left;
+}
+.heading__alignc{
+    align-items: center;
+}
+.heading__alignl{
+    text-align: left;
+}
+.heading h2{
+    color: #ffce6d;
+    font-family: Dancing Script,cursive;
+    font-size: 2.25rem;
+    font-weight: 700;
+}
+.heading h3{
+    color: #fffffc;
+    font-size: 1.8rem;
+    text-transform: capitalize;
+}

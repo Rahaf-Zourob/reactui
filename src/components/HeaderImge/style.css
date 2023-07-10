@@ -1,0 +1,6 @@
+.heder__image{
+    height: 55rem;
+    background-image: url('/public/assets/header.png') ;
+    background-position: 40%;
+    object-fit: cover;    background-repeat: no-repeat;
+}

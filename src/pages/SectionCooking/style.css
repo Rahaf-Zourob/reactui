@@ -1,0 +1,8 @@
+.cooking__sec{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.cooking__pading{
+    padding: 7rem 0;
+}

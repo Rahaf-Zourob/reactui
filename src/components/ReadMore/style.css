@@ -1,0 +1,20 @@
+.btn__site{
+    width: 12rem;
+    height: 3.4rem;
+    background-color: transparent;
+    font-weight: bold;
+    font-size: 1.2rem;
+    color: #fff;
+    cursor: pointer;
+    border: 2px solid #fffccc;
+}
+.btn__blog{
+    width: 6rem;
+    height: 2rem;
+    background-color: transparent;
+    font-size: 16px;
+    color: #fff;
+    cursor: pointer;
+    border: none;
+    border-bottom: 1px solid #FFCE6D;
+}

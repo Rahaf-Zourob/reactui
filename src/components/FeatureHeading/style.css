@@ -1,0 +1,24 @@
+.head__feature{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.head__feature h2{
+   color:#ffce6d;
+}
+.head__feature h3{
+    color: #fff;
+    font-family: Dancing Script,cursive;
+}
+.flex__rcol{
+    flex-direction: column-reverse;
+    height: 60%;
+}
+.flex__col{
+    flex-direction: column;
+}
+.flex__col h2{
+    font-size: 3rem;
+    line-height: 3.5rem;
+    text-align: center;
+}

@@ -1,0 +1,15 @@
+.content__booking{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 auto;
+    height: 20.5rem;
+}
+.booking__detail{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    justify-content: space-between;
+    height: 13rem;
+}

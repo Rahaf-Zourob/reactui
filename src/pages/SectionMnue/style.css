@@ -1,0 +1,14 @@
+.mnue{
+    padding-bottom: 6.9rem;
+}
+.mnue__item{
+    display: grid;
+    gap: 2rem;
+    grid-template-columns: 1fr 1fr;
+    margin: 7rem auto 0;
+    width: 90%;
+    padding-bottom: 1.5rem;
+}
+.mnue__head{
+    padding-top: 3rem;
+}

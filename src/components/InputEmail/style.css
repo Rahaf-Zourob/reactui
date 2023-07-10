@@ -1,0 +1,11 @@
+.inut__email{
+    width: 25.4rem;
+    height: 3.4rem;
+    background-color: transparent;
+    font-weight: bold;
+    font-size: 0.6rem;
+    color: #FFFFFC;
+    cursor: pointer;
+    border: 0.1rem solid #fffccc;
+    padding: 1.2rem 4.4rem 1rem 2.12rem;
+}

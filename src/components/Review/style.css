@@ -1,0 +1,35 @@
+.content__review{
+    padding-top: 2.37rem;
+    height: 30rem;
+}
+.review__transparent{
+    width: 45.75rem;
+    margin-top:3.75rem ;
+    translate: -30rem;
+}
+.name__rete{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+}
+.name__rete h3{
+    line-height: 1.74rem;
+}
+.star__review{
+    display: flex;
+    justify-content: space-between;
+    width: 1rem;
+}
+.avtar__name{
+    display: flex;
+    align-items: center;
+    gap:3.18rem;
+    
+}
+.review__descriptipn{
+    padding: 2.35rem 0 4.25rem;
+    font-weight: 400;
+    letter-spacing: 0.13em;
+    line-height: 1.5rem;
+    text-transform: capitalize
+}

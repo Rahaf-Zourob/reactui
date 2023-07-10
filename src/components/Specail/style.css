@@ -1,0 +1,15 @@
+.speical__content{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: column;
+    height: 14rem;
+    width: 80%;
+    margin: 0 auto;
+}
+.speical__content p{
+    width: 65%;
+    text-align: justify;
+    text-transform: capitalize;
+    font-size: 0.8rem;
+}

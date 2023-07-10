@@ -1,0 +1,8 @@
+.head__blogs{
+    padding: 6rem 0 4.3rem;
+}
+.blog__cards{
+    display: flex;
+    gap: 2rem;
+    padding-bottom: 4.4rem;
+}

@@ -1,0 +1,10 @@
+.description__sec p{
+    color: #fffffc;
+    font-size: 0.8rem;
+    font-weight: 400;
+    letter-spacing: 0.13em;
+    line-height: 22p1.37rem;
+    margin: 3rem 0;
+    text-transform: capitalize;
+    width: 80%;
+}

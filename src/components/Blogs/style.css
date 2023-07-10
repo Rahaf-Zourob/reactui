@@ -1,0 +1,23 @@
+.blog__card{
+    width: 25.6rem;
+    height: 32.9;
+    display: flex;
+}
+.blog__col{
+    flex-direction: column;
+}
+.blog__rcol{
+    flex-direction: column-reverse;
+}
+.blog__description{
+    padding-bottom: 1.3rem;
+}
+.blog__description h4{
+    line-height: 1.56rem;
+    font-weight: 700;
+    font-size: 1.37rem;
+    padding-bottom: 1.1rem;
+}
+.blog__info{
+    padding: 2.43rem 2.7rem 2.1rem ;
+}
