@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
 .heading{
     display: flex;
     justify-content: center;
@@ -12,8 +13,8 @@
 }
 .heading h2{
     color: #ffce6d;
-    font-family: Dancing Script,cursive;
-    font-size: 2.25rem;
+    font-family: 'Dancing Script', cursive;       
+     font-size: 2.25rem;
     font-weight: 700;
 }
 .heading h3{
