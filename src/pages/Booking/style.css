@@ -1,7 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
 .content__booking{
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    /* justify-content: space-between; */
     margin: 0 auto;
     height: 20.5rem;
 }
@@ -12,4 +13,16 @@
     text-align: center;
     justify-content: space-between;
     height: 13rem;
+    z-index: 22;
+}
+.booking__detail h3{
+   font-family: 'Dancing Script', cursive;
+   width: 20rem;
+   font-size: 2.25rem;
+}
+.content__booking .tranlate__xplus{
+   transform: translateX(7rem); 
+}
+.content__booking .translate__xmins{
+    transform: translateX(-1rem); 
 }
